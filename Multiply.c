@@ -7,7 +7,7 @@ int main(){
     b=5;
 
     pro= a*b;
-    printf(pro);
+    printf("The product will be:"pro);
 }
 
 
